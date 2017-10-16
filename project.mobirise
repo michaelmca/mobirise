@@ -41,7 +41,8 @@
               "text-align": "center",
               "color": "#1e0707",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "24px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -81,7 +82,7 @@
             "overlayOpacity": 0.2
           },
           "title": "FULL SERVICE LANDSCAPE AND PROPERTY SOLUTIONS",
-          "text": "<p>L<b>andscape Maintenance - Lawn Care - Bush Pruning - Masonry - Stone walls - Landscape Design - Walkways - Patios - Drainage Solutions - Small Tree Pruning - Snow Removal\n</b></p><p>\n</p><p><br></p><p><b>★</b> &nbsp;Serving Morris, Sussex, and Warren Counties. &nbsp;<b>★</b></p><p>\n</p><p><br></p><p>Call or email for estimates/quotes.</p>",
+          "text": "<p>&nbsp;L<b>andscape Maintenance &nbsp; &nbsp;♦ &nbsp; Lawn Care &nbsp; ♦ &nbsp; Snow Removal &nbsp; ♦ &nbsp;Drainage Solutions &nbsp;♦</b></p><p><b>♦ &nbsp; Masonry /</b><b>Stone walls &nbsp;♦ &nbsp; Landscape Design &nbsp; ♦ &nbsp;Walkways &nbsp; ♦ &nbsp; Patios &nbsp;</b></p><p><b>♦ &nbsp; &nbsp;Bush/Small Tree Pruning&nbsp;</b></p><p><b><br></b></p><p><b>★★★</b> &nbsp;Serving Morris, Sussex, and Warren Counties. &nbsp;<b>★★★</b></p><p>\n</p><p><br></p><p>Call or email for estimates/quotes.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
