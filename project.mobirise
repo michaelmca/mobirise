@@ -81,7 +81,7 @@
             "overlayOpacity": 0.2
           },
           "title": "FULL SERVICE LANDSCAPE AND PROPERTY SOLUTIONS",
-          "text": "<p>L<b>andscape Maintenance - Lawn Care - Bush Pruning - Masonry - Stone walls - Landscape Design - Walkways - Patios - Drainage Solutions - Small Tree Pruning - Snow Removal\n</b></p><p>\n</p><p><br></p><p>Serving Morris, Sussex, and Warren Counties.\n</p><p>\n</p><p><br></p><p>Call or email for estimates/quotes.</p>",
+          "text": "<p>L<b>andscape Maintenance - Lawn Care - Bush Pruning - Masonry - Stone walls - Landscape Design - Walkways - Patios - Drainage Solutions - Small Tree Pruning - Snow Removal\n</b></p><p>\n</p><p><br></p><p><b>★</b> &nbsp;Serving Morris, Sussex, and Warren Counties. &nbsp;<b>★</b></p><p>\n</p><p><br></p><p>Call or email for estimates/quotes.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -222,8 +222,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -235,7 +235,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mrn-griff-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mrn-griff-thumb-1.gif",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -247,14 +247,13 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "https://mobirise.com",
               "size": "",
-              "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons"
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACT US</strong><br>\nEmail: <a href=\"mailto:mrnllc@gmail.com\">mrnllc@gmail.com</a><br>\nPhone: <a href=\"tel:908-914-2206\">&nbsp;908-914-2206</a><br>",
+          "text1": "<strong><br></strong><strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><strong>CONTACT US</strong><br>\nEmail: <a href=\"mailto:mrnllc@gmail.com\">mrnllc@gmail.com</a><br>\nPhone: <a href=\"tel:908-914-2206\">&nbsp;908-914-2206</a><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -382,8 +381,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -395,7 +394,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mrn-griff-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mrn-griff-thumb-1.gif",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -413,8 +412,8 @@
               "active": true
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACT US</strong><br>\nEmail: <a href=\"mailto:mrnllc@gmail.com\">mrnllc@gmail.com</a><br>\nPhone: <a href=\"tel:908-914-2206\">&nbsp;908-914-2206</a><br>",
+          "text1": "<strong><br></strong><strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><strong>CONTACT US</strong><br>\nEmail: <a href=\"mailto:mrnllc@gmail.com\">mrnllc@gmail.com</a><br>\nPhone: <a href=\"tel:908-914-2206\">&nbsp;908-914-2206</a><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -550,8 +549,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -563,7 +562,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mrn-griff-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mrn-griff-thumb-1.gif",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -580,8 +579,8 @@
               "size": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACT US</strong><br>\nEmail: <a href=\"mailto:mrnllc@gmail.com\">mrnllc@gmail.com</a><br>\nPhone: <a href=\"tel:908-914-2206\">&nbsp;908-914-2206</a><br>",
+          "text1": "<strong><br></strong><strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><strong>CONTACT US</strong><br>\nEmail: <a href=\"mailto:mrnllc@gmail.com\">mrnllc@gmail.com</a><br>\nPhone: <a href=\"tel:908-914-2206\">&nbsp;908-914-2206</a><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
